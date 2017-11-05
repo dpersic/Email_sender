@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMail", "ConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServiceMailClient", "WindowsServiceMailClient\WindowsServiceMailClient.csproj", "{127120CE-23DD-4E5B-8395-FCF014750569}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppMailSender", "WindowsFormsAppMailSender\WindowsFormsAppMailSender.csproj", "{3A298152-A1E0-4F80-9256-35F835C41656}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{127120CE-23DD-4E5B-8395-FCF014750569}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{127120CE-23DD-4E5B-8395-FCF014750569}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{127120CE-23DD-4E5B-8395-FCF014750569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A298152-A1E0-4F80-9256-35F835C41656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A298152-A1E0-4F80-9256-35F835C41656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A298152-A1E0-4F80-9256-35F835C41656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A298152-A1E0-4F80-9256-35F835C41656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
